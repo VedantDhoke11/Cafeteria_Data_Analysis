@@ -151,8 +151,8 @@ To handle this volume efficiently on a local workstation without out-of-memory (
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/VedantDhoke11/kanishka-cafeteria-challenge.git
-cd kanishka-cafeteria-challenge
+git clone https://github.com/VedantDhoke11/Cafeteria_Data_Analysis.git
+cd Cafeteria_Data_Analysis
 
 python -m venv venv
 # On Windows:

@@ -26,7 +26,7 @@ I analyzed the complete FY 2024–25 transaction dataset (5.96 million orders ac
    * Generated a 7-day forward operational forecast (41,742 orders / ~₹30.3 Lakhs revenue) with 95% confidence intervals and kitchen staffing recommendations.
 
 ### Repository & Deliverables:
-* **GitHub Repository:** https://github.com/VedantDhoke11/kanishka-cafeteria-challenge
+* **GitHub Repository:** https://github.com/VedantDhoke11/Cafeteria_Data_Analysis
 * **Presentation Dashboard:** Included in repository (`reports/Executive_Presentation_Report.html`)
 * **Attached:** Updated Resume (`Vedant_Dhoke_Resume.pdf`)
 
