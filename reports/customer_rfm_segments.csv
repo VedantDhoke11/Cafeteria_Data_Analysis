@@ -1,0 +1,6 @@
+customer_tier,customer_count,customer_pct,total_orders,order_contribution_pct,total_spend,revenue_contribution_pct,avg_spend_per_user,avg_aov
+Platinum Champions (100+ Orders),13291,29.5,4864642.0,81.61,337963480.61,82.22,25427.99,66.4
+Gold Frequent Diners (40-99 Orders),12201,27.08,808629.0,13.57,53438779.84,13.0,4379.87,66.19
+Silver Regulars (15-39 Orders),8726,19.37,226809.0,3.8,15314749.18,3.73,1755.07,67.67
+Bronze Occasional (5-14 Orders),5506,12.22,49605.0,0.83,3491657.7,0.85,634.16,70.83
+First-Timers / Infrequent (1-4 Orders),5324,11.82,11319.0,0.19,852020.35,0.21,160.03,75.92

@@ -1,0 +1,787 @@
+{
+  "platform_summary": {
+    "total_orders": 5961005,
+    "total_unique_users": 45049,
+    "active_branches": 8,
+    "total_gross_revenue": 411060742.6800029,
+    "average_order_value": 68.958295233774,
+    "total_refunded_orders": 936.0,
+    "refund_rate_pct": 0.02,
+    "earliest_order": "2024-04-01 00:00:34",
+    "latest_order": "2025-04-01 17:11:47"
+  },
+  "branch_performance": [
+    {
+      "branch_id": 1,
+      "branch_name": "Nirlon Knowledge Park",
+      "branch_code": "BRANCH-646cae47ded75",
+      "order_volume": 2344842,
+      "total_revenue": 170224652.67,
+      "aov": 72.6,
+      "unique_customers": 14442,
+      "revenue_per_customer": 11786.78,
+      "order_share_pct": 39.34
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "Embassy Tech Village",
+      "branch_code": "BRANCH-646cafdd52691",
+      "order_volume": 2480228,
+      "total_revenue": 169386369.74,
+      "aov": 68.29,
+      "unique_customers": 22223,
+      "revenue_per_customer": 7622.12,
+      "order_share_pct": 41.61
+    },
+    {
+      "branch_id": 9,
+      "branch_name": "Magma",
+      "branch_code": "BRANCH-66cde08d90428",
+      "order_volume": 653115,
+      "total_revenue": 43536038.9,
+      "aov": 66.66,
+      "unique_customers": 9462,
+      "revenue_per_customer": 4601.15,
+      "order_share_pct": 10.96
+    },
+    {
+      "branch_id": 4,
+      "branch_name": "Magnus Tower",
+      "branch_code": "BRANCH-64de00f4d895b",
+      "order_volume": 443902,
+      "total_revenue": 25673606.0,
+      "aov": 57.84,
+      "unique_customers": 4,
+      "revenue_per_customer": 6418401.5,
+      "order_share_pct": 7.45
+    },
+    {
+      "branch_id": 10,
+      "branch_name": "JPMT-Kalina",
+      "branch_code": "BRANCH-6757e9121a981",
+      "order_volume": 38477,
+      "total_revenue": 2204596.37,
+      "aov": 57.3,
+      "unique_customers": 667,
+      "revenue_per_customer": 3305.24,
+      "order_share_pct": 0.65
+    },
+    {
+      "branch_id": 3,
+      "branch_name": "KANISHKA CAFE",
+      "branch_code": "BRANCH-64b8eaa3f3267",
+      "order_volume": 432,
+      "total_revenue": 35272.0,
+      "aov": 81.65,
+      "unique_customers": 6,
+      "revenue_per_customer": 5878.67,
+      "order_share_pct": 0.01
+    },
+    {
+      "branch_id": 11,
+      "branch_name": "JPMC ETV- 5",
+      "branch_code": "BRANCH-679378c845967",
+      "order_volume": 8,
+      "total_revenue": 152.0,
+      "aov": 19.0,
+      "unique_customers": 1,
+      "revenue_per_customer": 152.0,
+      "order_share_pct": 0.0
+    },
+    {
+      "branch_id": -1,
+      "branch_name": "Branch -1",
+      "branch_code": "N/A",
+      "order_volume": 1,
+      "total_revenue": 55.0,
+      "aov": 55.0,
+      "unique_customers": 1,
+      "revenue_per_customer": 55.0,
+      "order_share_pct": 0.0
+    }
+  ],
+  "hourly_trends": [
+    {
+      "order_hour": 0,
+      "total_orders": 113513,
+      "total_revenue": 5968037.07,
+      "aov": 52.58
+    },
+    {
+      "order_hour": 1,
+      "total_orders": 107385,
+      "total_revenue": 5427951.03,
+      "aov": 50.55
+    },
+    {
+      "order_hour": 2,
+      "total_orders": 88755,
+      "total_revenue": 4670750.52,
+      "aov": 52.63
+    },
+    {
+      "order_hour": 3,
+      "total_orders": 52912,
+      "total_revenue": 2755246.85,
+      "aov": 52.07
+    },
+    {
+      "order_hour": 4,
+      "total_orders": 34116,
+      "total_revenue": 1608585.31,
+      "aov": 47.15
+    },
+    {
+      "order_hour": 5,
+      "total_orders": 19781,
+      "total_revenue": 652397.45,
+      "aov": 32.98
+    },
+    {
+      "order_hour": 6,
+      "total_orders": 15405,
+      "total_revenue": 480431.69,
+      "aov": 31.19
+    },
+    {
+      "order_hour": 7,
+      "total_orders": 66468,
+      "total_revenue": 4166176.45,
+      "aov": 62.68
+    },
+    {
+      "order_hour": 8,
+      "total_orders": 105965,
+      "total_revenue": 4949951.67,
+      "aov": 46.71
+    },
+    {
+      "order_hour": 9,
+      "total_orders": 172331,
+      "total_revenue": 7776354.53,
+      "aov": 45.12
+    },
+    {
+      "order_hour": 10,
+      "total_orders": 205264,
+      "total_revenue": 9263828.98,
+      "aov": 45.13
+    },
+    {
+      "order_hour": 11,
+      "total_orders": 106972,
+      "total_revenue": 4953424.01,
+      "aov": 46.31
+    },
+    {
+      "order_hour": 12,
+      "total_orders": 250989,
+      "total_revenue": 20092997.2,
+      "aov": 80.06
+    },
+    {
+      "order_hour": 13,
+      "total_orders": 722134,
+      "total_revenue": 63504321.1,
+      "aov": 87.94
+    },
+    {
+      "order_hour": 14,
+      "total_orders": 485767,
+      "total_revenue": 41737542.74,
+      "aov": 85.92
+    },
+    {
+      "order_hour": 15,
+      "total_orders": 203437,
+      "total_revenue": 13070094.4,
+      "aov": 64.25
+    },
+    {
+      "order_hour": 16,
+      "total_orders": 628061,
+      "total_revenue": 40026420.86,
+      "aov": 63.73
+    },
+    {
+      "order_hour": 17,
+      "total_orders": 719940,
+      "total_revenue": 39369943.77,
+      "aov": 54.69
+    },
+    {
+      "order_hour": 18,
+      "total_orders": 513696,
+      "total_revenue": 28435116.84,
+      "aov": 55.35
+    },
+    {
+      "order_hour": 19,
+      "total_orders": 188559,
+      "total_revenue": 12235394.88,
+      "aov": 64.89
+    },
+    {
+      "order_hour": 20,
+      "total_orders": 390659,
+      "total_revenue": 33442058.49,
+      "aov": 85.6
+    },
+    {
+      "order_hour": 21,
+      "total_orders": 396137,
+      "total_revenue": 34784087.43,
+      "aov": 87.81
+    },
+    {
+      "order_hour": 22,
+      "total_orders": 277368,
+      "total_revenue": 24035393.47,
+      "aov": 86.66
+    },
+    {
+      "order_hour": 23,
+      "total_orders": 95391,
+      "total_revenue": 7654235.94,
+      "aov": 80.24
+    }
+  ],
+  "day_of_week_trends": [
+    {
+      "dow_num": 0,
+      "day_of_week": "Sunday",
+      "total_orders": 45291,
+      "total_revenue": 2309863.71,
+      "aov": 51.0
+    },
+    {
+      "dow_num": 1,
+      "day_of_week": "Monday",
+      "total_orders": 1122009,
+      "total_revenue": 75617814.01,
+      "aov": 67.4
+    },
+    {
+      "dow_num": 2,
+      "day_of_week": "Tuesday",
+      "total_orders": 1258019,
+      "total_revenue": 85356020.53,
+      "aov": 67.85
+    },
+    {
+      "dow_num": 3,
+      "day_of_week": "Wednesday",
+      "total_orders": 1218246,
+      "total_revenue": 87857545.16,
+      "aov": 72.12
+    },
+    {
+      "dow_num": 4,
+      "day_of_week": "Thursday",
+      "total_orders": 1187505,
+      "total_revenue": 83260641.63,
+      "aov": 70.11
+    },
+    {
+      "dow_num": 5,
+      "day_of_week": "Friday",
+      "total_orders": 1005595,
+      "total_revenue": 70018150.0,
+      "aov": 69.63
+    },
+    {
+      "dow_num": 6,
+      "day_of_week": "Saturday",
+      "total_orders": 124340,
+      "total_revenue": 6640707.64,
+      "aov": 53.41
+    }
+  ],
+  "monthly_trends": [
+    {
+      "order_month": "2024-04",
+      "total_orders": 420210,
+      "total_revenue": 28024434.22,
+      "active_users": 19085,
+      "aov": 66.69
+    },
+    {
+      "order_month": "2024-05",
+      "total_orders": 464644,
+      "total_revenue": 31687560.95,
+      "active_users": 19844,
+      "aov": 68.2
+    },
+    {
+      "order_month": "2024-06",
+      "total_orders": 431484,
+      "total_revenue": 28849547.97,
+      "active_users": 20180,
+      "aov": 66.86
+    },
+    {
+      "order_month": "2024-07",
+      "total_orders": 497829,
+      "total_revenue": 34211616.14,
+      "active_users": 22110,
+      "aov": 68.72
+    },
+    {
+      "order_month": "2024-08",
+      "total_orders": 459380,
+      "total_revenue": 31860485.06,
+      "active_users": 22710,
+      "aov": 69.36
+    },
+    {
+      "order_month": "2024-09",
+      "total_orders": 450445,
+      "total_revenue": 32187988.94,
+      "active_users": 24724,
+      "aov": 71.46
+    },
+    {
+      "order_month": "2024-10",
+      "total_orders": 553625,
+      "total_revenue": 37167379.55,
+      "active_users": 29625,
+      "aov": 67.13
+    },
+    {
+      "order_month": "2024-11",
+      "total_orders": 488182,
+      "total_revenue": 33858764.35,
+      "active_users": 29127,
+      "aov": 69.36
+    },
+    {
+      "order_month": "2024-12",
+      "total_orders": 446645,
+      "total_revenue": 28800469.48,
+      "active_users": 28006,
+      "aov": 64.48
+    },
+    {
+      "order_month": "2025-01",
+      "total_orders": 598331,
+      "total_revenue": 41672290.22,
+      "active_users": 30355,
+      "aov": 69.65
+    },
+    {
+      "order_month": "2025-02",
+      "total_orders": 558939,
+      "total_revenue": 39392116.8,
+      "active_users": 30254,
+      "aov": 70.48
+    },
+    {
+      "order_month": "2025-03",
+      "total_orders": 574176,
+      "total_revenue": 42154660.0,
+      "active_users": 30397,
+      "aov": 73.42
+    },
+    {
+      "order_month": "2025-04",
+      "total_orders": 17115,
+      "total_revenue": 1193429.0,
+      "active_users": 7382,
+      "aov": 69.73
+    }
+  ],
+  "payment_modes": [
+    {
+      "payment_mode": "paytm",
+      "total_orders": 1867852,
+      "total_revenue": 117021871.43,
+      "order_pct": 31.33,
+      "aov": 62.65
+    },
+    {
+      "payment_mode": "Upi",
+      "total_orders": 1119185,
+      "total_revenue": 83184083.0,
+      "order_pct": 18.78,
+      "aov": 74.33
+    },
+    {
+      "payment_mode": "Paytm",
+      "total_orders": 511323,
+      "total_revenue": 36139594.65,
+      "order_pct": 8.58,
+      "aov": 70.68
+    },
+    {
+      "payment_mode": "cca",
+      "total_orders": 478503,
+      "total_revenue": 32212555.57,
+      "order_pct": 8.03,
+      "aov": 67.32
+    },
+    {
+      "payment_mode": "Cash",
+      "total_orders": 445616,
+      "total_revenue": 25660378.0,
+      "order_pct": 7.48,
+      "aov": 57.58
+    },
+    {
+      "payment_mode": "QR",
+      "total_orders": 387085,
+      "total_revenue": 18433983.45,
+      "order_pct": 6.49,
+      "aov": 47.62
+    },
+    {
+      "payment_mode": "razorpay",
+      "total_orders": 370666,
+      "total_revenue": 25844807.79,
+      "order_pct": 6.22,
+      "aov": 69.73
+    },
+    {
+      "payment_mode": "Card",
+      "total_orders": 233797,
+      "total_revenue": 24779893.0,
+      "order_pct": 3.92,
+      "aov": 105.99
+    },
+    {
+      "payment_mode": "Razorpay",
+      "total_orders": 186940,
+      "total_revenue": 12900251.77,
+      "order_pct": 3.14,
+      "aov": 69.01
+    },
+    {
+      "payment_mode": "UPI",
+      "total_orders": 155745,
+      "total_revenue": 19187557.5,
+      "order_pct": 2.61,
+      "aov": 123.2
+    },
+    {
+      "payment_mode": "CCA",
+      "total_orders": 85345,
+      "total_revenue": 5997878.3,
+      "order_pct": 1.43,
+      "aov": 70.28
+    },
+    {
+      "payment_mode": "Unknown",
+      "total_orders": 84958,
+      "total_revenue": 5276587.22,
+      "order_pct": 1.43,
+      "aov": 62.11
+    },
+    {
+      "payment_mode": "card",
+      "total_orders": 33328,
+      "total_revenue": 4367409.0,
+      "order_pct": 0.56,
+      "aov": 131.04
+    },
+    {
+      "payment_mode": "mode of transaction",
+      "total_orders": 662,
+      "total_revenue": 53892.0,
+      "order_pct": 0.01,
+      "aov": 81.41
+    }
+  ],
+  "order_channels": [
+    {
+      "order_channel": "mobile app",
+      "total_orders": 3585587,
+      "total_revenue": 235393546.73,
+      "order_pct": 60.15,
+      "aov": 65.65
+    },
+    {
+      "order_channel": "sok",
+      "total_orders": 1347463,
+      "total_revenue": 107029223.0,
+      "order_pct": 22.6,
+      "aov": 79.43
+    },
+    {
+      "order_channel": "pos",
+      "total_orders": 1027955,
+      "total_revenue": 68637972.95,
+      "order_pct": 17.24,
+      "aov": 66.77
+    }
+  ],
+  "top_selling_dishes": [
+    {
+      "dish_name": "Ginger Tea",
+      "order_count": 540777,
+      "total_quantity_sold": 753840.0,
+      "avg_unit_price": 15.24,
+      "estimated_revenue": 11484386.0
+    },
+    {
+      "dish_name": "Regular Tea",
+      "order_count": 244617,
+      "total_quantity_sold": 324343.0,
+      "avg_unit_price": 15.25,
+      "estimated_revenue": 4946941.0
+    },
+    {
+      "dish_name": "Reboot Chai",
+      "order_count": 156264,
+      "total_quantity_sold": 207589.0,
+      "avg_unit_price": 15.41,
+      "estimated_revenue": 3196818.0
+    },
+    {
+      "dish_name": "Bombay Cutting Chai (cutting glass)",
+      "order_count": 118792,
+      "total_quantity_sold": 158011.0,
+      "avg_unit_price": 15.44,
+      "estimated_revenue": 2437944.0
+    },
+    {
+      "dish_name": "Filter Kaapi",
+      "order_count": 127893,
+      "total_quantity_sold": 155577.0,
+      "avg_unit_price": 18.26,
+      "estimated_revenue": 2839510.0
+    },
+    {
+      "dish_name": "Veg Meal Combo",
+      "order_count": 123365,
+      "total_quantity_sold": 128259.0,
+      "avg_unit_price": 55.41,
+      "estimated_revenue": 7106600.0
+    },
+    {
+      "dish_name": "Irani Chai",
+      "order_count": 85590,
+      "total_quantity_sold": 118115.0,
+      "avg_unit_price": 20.52,
+      "estimated_revenue": 2422137.0
+    },
+    {
+      "dish_name": "Monday Morning Tea",
+      "order_count": 76851,
+      "total_quantity_sold": 108662.0,
+      "avg_unit_price": 15.51,
+      "estimated_revenue": 1684690.0
+    },
+    {
+      "dish_name": "Masala Dosa",
+      "order_count": 96959,
+      "total_quantity_sold": 104940.0,
+      "avg_unit_price": 44.36,
+      "estimated_revenue": 4653382.0
+    },
+    {
+      "dish_name": "Samosa",
+      "order_count": 82235,
+      "total_quantity_sold": 102852.0,
+      "avg_unit_price": 22.24,
+      "estimated_revenue": 2267332.0
+    },
+    {
+      "dish_name": "Bombay Cutting Tea (cutting glass)",
+      "order_count": 72825,
+      "total_quantity_sold": 102378.0,
+      "avg_unit_price": 15.0,
+      "estimated_revenue": 1535670.0
+    },
+    {
+      "dish_name": "Indian Thali Veg Combo",
+      "order_count": 98794,
+      "total_quantity_sold": 101694.0,
+      "avg_unit_price": 50.9,
+      "estimated_revenue": 5175430.0
+    },
+    {
+      "dish_name": "Nescafe",
+      "order_count": 81059,
+      "total_quantity_sold": 98612.0,
+      "avg_unit_price": 15.14,
+      "estimated_revenue": 1492532.0
+    },
+    {
+      "dish_name": "Veg Meal",
+      "order_count": 77897,
+      "total_quantity_sold": 81447.0,
+      "avg_unit_price": 80.25,
+      "estimated_revenue": 6536170.0
+    },
+    {
+      "dish_name": "Tandoor Veg Combo",
+      "order_count": 76348,
+      "total_quantity_sold": 79340.0,
+      "avg_unit_price": 104.98,
+      "estimated_revenue": 8333960.0
+    }
+  ],
+  "top_counters": [
+    {
+      "counter_id": 4,
+      "counter_name": "Masala 1-Mumbai",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 397087,
+      "counter_revenue": 20267605.0
+    },
+    {
+      "counter_id": 29,
+      "counter_name": "Nourish-Mumbai",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 139594,
+      "counter_revenue": 20225658.0
+    },
+    {
+      "counter_id": 17,
+      "counter_name": "Nourish-Bengaluru",
+      "branch_name": "Embassy Tech Village",
+      "items_sold": 231063,
+      "counter_revenue": 20221309.5
+    },
+    {
+      "counter_id": 15,
+      "counter_name": "Flavours C-GF",
+      "branch_name": "Embassy Tech Village",
+      "items_sold": 332407,
+      "counter_revenue": 19507853.0
+    },
+    {
+      "counter_id": 12,
+      "counter_name": "Steep & Brew C-GF",
+      "branch_name": "Embassy Tech Village",
+      "items_sold": 790230,
+      "counter_revenue": 18100676.0
+    },
+    {
+      "counter_id": 7,
+      "counter_name": "Street Bites-4F",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 241335,
+      "counter_revenue": 16399039.0
+    },
+    {
+      "counter_id": 9,
+      "counter_name": "Steep & Brew-4F",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 662249,
+      "counter_revenue": 16182476.0
+    },
+    {
+      "counter_id": 16,
+      "counter_name": "Kitchen Exchange",
+      "branch_name": "Embassy Tech Village",
+      "items_sold": 194756,
+      "counter_revenue": 14574503.0
+    },
+    {
+      "counter_id": 8,
+      "counter_name": "The Spice Bowl-4F",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 164161,
+      "counter_revenue": 14247425.0
+    },
+    {
+      "counter_id": 11,
+      "counter_name": "The Brew-Bengaluru",
+      "branch_name": "Embassy Tech Village",
+      "items_sold": 136076,
+      "counter_revenue": 13745917.0
+    },
+    {
+      "counter_id": 26,
+      "counter_name": "Masala 2-Mumbai",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 216824,
+      "counter_revenue": 13078727.0
+    },
+    {
+      "counter_id": 18,
+      "counter_name": "Blended-Bengaluru",
+      "branch_name": "Embassy Tech Village",
+      "items_sold": 252481,
+      "counter_revenue": 12828952.0
+    },
+    {
+      "counter_id": 10,
+      "counter_name": "World Kitchen-Mumbai",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 210099,
+      "counter_revenue": 12659828.0
+    },
+    {
+      "counter_id": 1,
+      "counter_name": "The Brew-Mumbai",
+      "branch_name": "Nirlon Knowledge Park",
+      "items_sold": 101819,
+      "counter_revenue": 12092467.0
+    },
+    {
+      "counter_id": 20,
+      "counter_name": "Zaffran-Bengaluru",
+      "branch_name": "Embassy Tech Village",
+      "items_sold": 88997,
+      "counter_revenue": 11837015.0
+    }
+  ],
+  "rfm_segments": [
+    {
+      "customer_tier": "Platinum Champions (100+ Orders)",
+      "customer_count": 13291,
+      "customer_pct": 29.5,
+      "total_orders": 4864642.0,
+      "order_contribution_pct": 81.61,
+      "total_spend": 337963480.61,
+      "revenue_contribution_pct": 82.22,
+      "avg_spend_per_user": 25427.99,
+      "avg_aov": 66.4
+    },
+    {
+      "customer_tier": "Gold Frequent Diners (40-99 Orders)",
+      "customer_count": 12201,
+      "customer_pct": 27.08,
+      "total_orders": 808629.0,
+      "order_contribution_pct": 13.57,
+      "total_spend": 53438779.84,
+      "revenue_contribution_pct": 13.0,
+      "avg_spend_per_user": 4379.87,
+      "avg_aov": 66.19
+    },
+    {
+      "customer_tier": "Silver Regulars (15-39 Orders)",
+      "customer_count": 8726,
+      "customer_pct": 19.37,
+      "total_orders": 226809.0,
+      "order_contribution_pct": 3.8,
+      "total_spend": 15314749.18,
+      "revenue_contribution_pct": 3.73,
+      "avg_spend_per_user": 1755.07,
+      "avg_aov": 67.67
+    },
+    {
+      "customer_tier": "Bronze Occasional (5-14 Orders)",
+      "customer_count": 5506,
+      "customer_pct": 12.22,
+      "total_orders": 49605.0,
+      "order_contribution_pct": 0.83,
+      "total_spend": 3491657.7,
+      "revenue_contribution_pct": 0.85,
+      "avg_spend_per_user": 634.16,
+      "avg_aov": 70.83
+    },
+    {
+      "customer_tier": "First-Timers / Infrequent (1-4 Orders)",
+      "customer_count": 5324,
+      "customer_pct": 11.82,
+      "total_orders": 11319.0,
+      "order_contribution_pct": 0.19,
+      "total_spend": 852020.35,
+      "revenue_contribution_pct": 0.21,
+      "avg_spend_per_user": 160.03,
+      "avg_aov": 75.92
+    }
+  ]
+}

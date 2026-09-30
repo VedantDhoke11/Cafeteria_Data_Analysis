@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Assistant, Agent and Environment Artifacts
+.gemini/
+.agents/
+.cursor/
+.antigravity/
+.system_generated/
+*.log
+
+# Raw Large Datasets and Database Dumps (Exceed GitHub 100MB file limit)
+*.sql
+*.zip
+*.tar.gz
+*.7z
+*.rar
+data/*.duckdb*
+data/*.parquet
+data/cafeteria.duckdb*
+*.sqlite3
+*.db
+
+# Temporary and Cache files
+scratch/
+tmp/
+temp/
+*.tmp
+
+# Personal Documents (Attached separately via email)
+*.pdf
+submission/*.pdf

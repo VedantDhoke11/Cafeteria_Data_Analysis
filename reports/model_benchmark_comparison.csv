@@ -1,0 +1,6 @@
+Model,MAE,RMSE,MAPE (%),R² Score
+LightGBM Regressor,708.05,1529.18,20.43,0.866
+Ensemble (SARIMAX + LightGBM),788.67,1591.22,31.98,0.8549
+XGBoost Regressor,834.68,1683.18,21.39,0.8377
+"SARIMAX (1,1,1)(1,1,1)7",965.92,1702.59,45.91,0.8339
+Seasonal Baseline (Lag-7),991.11,2150.58,26.29,0.735
