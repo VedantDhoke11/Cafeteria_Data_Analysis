@@ -189,5 +189,5 @@ python src/generate_html_report.py
 ## Author
 
 **Vedant Dhoke**  
-* Email: [vedantdhoke11@gmail.com](mailto:vedantdhoke311@gmail.com)  
+* Email: [vedantdhoke311@gmail.com](mailto:vedantdhoke311@gmail.com)  
 * GitHub: [github.com/VedantDhoke11](https://github.com/VedantDhoke11)  
